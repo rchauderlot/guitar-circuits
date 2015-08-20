@@ -22,11 +22,11 @@ $HOME/Documents/circuits:$EAGLEDIR/projects/examples
 ## Circuits
 
 ### gm-lbr
-This is not a circuit it is a library got form [Gaussmarkov website](http://gaussmarkov.net/) (very cool site, check it out). I’m using it because it is oriented to create pedals and fits my needs very well. It is free, but, all the copyrights belongs to Gaussmarkov as he says in his [About page](http://gaussmarkov.net/wordpress/about/).
+This is not a circuit it is a library got form [Gaussmarkov website](http://gaussmarkov.net/) (very cool site, check it out). I’m using it because it is oriented to create pedals and fits my needs very well. It is free, but, all the copyrights belongs to Gaussmarkov as he says in his [About page](http://gaussmarkov.net/wordpress/about/).
 
 
-### true-bypass
-This is a tiny board intended to be attached to a heavy duty foot switch and where you connect all the parts of the circuit (effect board, jacks, led, battery clip and power supply). I made it to avoid to have a mess of wires inside of the pedal case. It is a single sided board, and it is very easy to develop it at home.
+### true-bypass
+This is a tiny board intended to be attached to a heavy duty foot switch and where you connect all the parts of the circuit (effect board, jacks, led, battery clip and power supply). I made it to avoid to have a mess of wires inside of the pedal case. It is a single sided board, and it is very easy to develop at home.
 
 
 
