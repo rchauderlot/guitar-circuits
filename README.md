@@ -6,7 +6,7 @@ For the moment, I just made some simple circuits to help me in the process of bu
 
 All of the circuits in this repo are made using the freeware version of the [EAGLE CAD software](http://www.cadsoftusa.com/), which is cross-platform and has no cost for a hobbyist use. You could download it from the [EAGLE download page](http://www.cadsoftusa.com/download-eagle/)
 
-To configure EAGLE I just add the paths of where the repo is cloned to the project and libraries directories in the *Options* > *Directories* menu. Remember that directories are   colon separated (:). A configuration sample is (it is my current configuration ;-) ):
+To configure EAGLE I just add the paths of where the repo is cloned to the project and libraries directories in the *Options* > *Directories* menu. Remember, directories are colon separated in EAGLE. A configuration sample is (it is my current configuration ;-) ):
 
 Libraries:
 <pre><code>
@@ -28,5 +28,6 @@ This is not a circuit it is a library got form [Gaussmarkov website](http://gaus
 ### true-bypass
 This is a tiny board intended to be attached to a heavy duty foot switch and where you connect all the parts of the circuit (effect board, jacks, led, battery clip and power supply). I made it to avoid to have a mess of wires inside of the pedal case. It is a single sided board, and it is very easy to develop at home.
 
-
+### true-bypass-2.0
+This board is based on the previous one but adds the feature of disconect the power supply when the output jack is unpluged. A stereo jack at the output is needed to take that advantadge.
 
